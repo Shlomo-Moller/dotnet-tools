@@ -1,3 +1,3 @@
 # .NET Tools
 
-Some nice C-Sharp utilities
+Some nice C# utilities
